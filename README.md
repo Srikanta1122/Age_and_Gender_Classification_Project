@@ -1,3 +1,1 @@
-# Minor_Project Age and Gender Classification 
-
-
+# Minor-Project - Gender and age classification
