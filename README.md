@@ -1,3 +1,3 @@
-# Minor_Project_6_Semester
+# Minor_Project Age and Gender Classification 
 
-Age and Gender classification 
+
